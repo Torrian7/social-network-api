@@ -4,14 +4,16 @@
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
 ## Table of Contents 
-- [User Story](#user-story)
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+- [Social Network API](#social-network-api)
+  - [Licensing:](#licensing)
+  - [Table of Contents](#table-of-contents)
+  - [User Story:](#user-story)
+  - [Description:](#description)
+  - [Installation:](#installation)
+  - [Usage:](#usage)
+  - [License:](#license)
+  - [Contributing:](#contributing)
+  - [Tests:](#tests)
 
 ## User Story:
 AS A social media startup
@@ -145,6 +147,3 @@ Contributions are welcome through forking my repository.
 ## Tests:
 None
 
-## Questions:
-- Github: [andreahergert](https://github.com/andreahergert)
-- Email: ahergert24@hotmail.com 
